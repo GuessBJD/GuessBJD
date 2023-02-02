@@ -10,9 +10,9 @@
 
 <picture> <img align="right" src="https://github.com/GuessBJD/GuessBJD/blob/main/cat_codding.gif" width = 350px height = 257px></picture>
 
-<p align="justify">I am driven by a passion for crafting efficient and imaginative software solutions. My education and personal projects have honed my programming abilities in languages such as Kotlin, Java, Python, and C/C++, as well as providing me with a comprehensive understanding of software application development. I am a curious individual who relishes the opportunity to delve into new technologies and deepen my understanding of software engineering.</p>
+<p align="left">I am driven by a passion for crafting efficient and imaginative software solutions. My education and personal projects have honed my programming abilities in languages such as Kotlin, Java, Python, and C/C++, as well as providing me with a comprehensive understanding of software application development. I am a curious individual who relishes the opportunity to delve into new technologies and deepen my understanding of software engineering.</p>
 
-<p align="justify">Eager to launch my professional career, I am seeking an internship that will allow me to build upon my skills and acquire hands-on industry experience. I am a diligent and motivated individual who is continually striving to expand my knowledge and better my abilities. I am committed that my passion, drive, and skills will enable me to make a meaningful contribution to any organization.</p>
+<p align="left">Eager to launch my professional career, I am seeking an internship that will allow me to build upon my skills and acquire hands-on industry experience. I am a diligent and motivated individual who is continually striving to expand my knowledge and better my abilities. I am committed that my passion, drive, and skills will enable me to make a meaningful contribution to any organization.</p>
 
 <br>
 
