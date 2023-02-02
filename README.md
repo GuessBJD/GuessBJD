@@ -8,7 +8,7 @@
 
 ## <img src="https://github.com/GuessBJD/GuessBJD/blob/main/rick.gif" width ="80"><b> About Me</b>
 
-<picture> <img align="right" src="https://github.com/GuessBJD/GuessBJD/blob/main/cat_codding.gif" width = 350px height = 300px></picture>
+<picture> <img align="right" src="https://github.com/GuessBJD/GuessBJD/blob/main/cat_codding.gif" width = 350px height = 257px></picture>
 
 <p align="justify">I am driven by a passion for crafting efficient and imaginative software solutions. My education and personal projects have honed my programming abilities in languages such as Kotlin, Java, Python, and C/C++, as well as providing me with a comprehensive understanding of software application development. I am a curious individual who relishes the opportunity to delve into new technologies and deepen my understanding of software engineering.</p>
 
