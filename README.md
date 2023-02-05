@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/GuessBJD/GuessBJD/blob/main/waving.gif">, My name is Wong Ze Min</h1>
 <h4 align="center">I'm a Final Year software engineering students from Xiamen University Malaysia</h4>
-<h4>View my <a href="https://drive.google.com/file/d/1jx704lYbezrXfDOG1wkZ--7cH0OilHc-/view?usp=share_link" target="_blank">resume</a> to know more about me</h4>
+<h4>View my <a href="https://drive.google.com/file/d/1jx704lYbezrXfDOG1wkZ--7cH0OilHc-/view?usp=share_link" target="_blank">resume</a> or <a href="https://guessbjd.github.io/" target="_blank">website</a> to know more about me</h4>
 </div>
 
 <br>
